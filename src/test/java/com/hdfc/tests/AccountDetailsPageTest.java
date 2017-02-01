@@ -25,7 +25,7 @@ public class AccountDetailsPageTest extends AbstractHDFTest {
 		
 	}
 	
-	//code to validate account details
+	
 	@Test
 	public void accountDetailsValidate(){
 		accountpage=loginpage.clickOnAccountsTab();
